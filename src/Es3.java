@@ -1,4 +1,4 @@
-import java.awt.geom.Area;
+
 import java.util.Scanner;
 
 public class Es3 {
@@ -31,7 +31,7 @@ public class Es3 {
 
     public static void perimetroTriangolo(){
         Scanner scanner =new Scanner(System.in);
-        boolean isTriangle=true;
+
         System.out.println("inserisci un lato: ");
         double a = scanner.nextDouble();
         System.out.println("inserisci un lato: ");
